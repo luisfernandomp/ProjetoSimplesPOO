@@ -1,0 +1,13 @@
+C:\Users\Luiz Fernando\Documents\ProjetoSimplesPOO\bin\Debug\netcoreapp3.1\ProjetoSimplesPOO.exe
+C:\Users\Luiz Fernando\Documents\ProjetoSimplesPOO\bin\Debug\netcoreapp3.1\ProjetoSimplesPOO.deps.json
+C:\Users\Luiz Fernando\Documents\ProjetoSimplesPOO\bin\Debug\netcoreapp3.1\ProjetoSimplesPOO.runtimeconfig.json
+C:\Users\Luiz Fernando\Documents\ProjetoSimplesPOO\bin\Debug\netcoreapp3.1\ProjetoSimplesPOO.runtimeconfig.dev.json
+C:\Users\Luiz Fernando\Documents\ProjetoSimplesPOO\bin\Debug\netcoreapp3.1\ProjetoSimplesPOO.dll
+C:\Users\Luiz Fernando\Documents\ProjetoSimplesPOO\bin\Debug\netcoreapp3.1\ProjetoSimplesPOO.pdb
+C:\Users\Luiz Fernando\Documents\ProjetoSimplesPOO\obj\Debug\netcoreapp3.1\ProjetoSimplesPOO.csprojAssemblyReference.cache
+C:\Users\Luiz Fernando\Documents\ProjetoSimplesPOO\obj\Debug\netcoreapp3.1\ProjetoSimplesPOO.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Fernando\Documents\ProjetoSimplesPOO\obj\Debug\netcoreapp3.1\ProjetoSimplesPOO.AssemblyInfoInputs.cache
+C:\Users\Luiz Fernando\Documents\ProjetoSimplesPOO\obj\Debug\netcoreapp3.1\ProjetoSimplesPOO.AssemblyInfo.cs
+C:\Users\Luiz Fernando\Documents\ProjetoSimplesPOO\obj\Debug\netcoreapp3.1\ProjetoSimplesPOO.dll
+C:\Users\Luiz Fernando\Documents\ProjetoSimplesPOO\obj\Debug\netcoreapp3.1\ProjetoSimplesPOO.pdb
+C:\Users\Luiz Fernando\Documents\ProjetoSimplesPOO\obj\Debug\netcoreapp3.1\ProjetoSimplesPOO.genruntimeconfig.cache
