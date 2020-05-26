@@ -29,7 +29,8 @@ namespace ProjetoSimplesPOO
             matheus.mediaFinal = 8.5f;
 
             Console.WriteLine("Matheus: "+matheus.verMediaFinal());
-            Console.WriteLine("Matheus: "+matheus.verMensalidade()); 
+            Console.WriteLine("Matheus: "+matheus.verMensalidade());
+            Console.WriteLine(matheus.bolsista); 
         }       
     }
 }
